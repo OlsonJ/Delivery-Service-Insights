@@ -3,7 +3,24 @@
 ## Insights are based off delivery service on bicycle within a city
 
 ### Data for this project is acquired from Doordash's dasher app and Uber's delivery app
-#### Data in consideration: Total Earnings, Earnings per order, Active time, Inactive time, 
+#### Data in consideration:
+1. Total Earnings per Day
+2. Earnings per order
+3. Active service time (on delivery)
+4. total service time per Day
+5. Distance traveled per order
+6. Total Distance traveled per day
 
+#### Future Considerations:
+1. Route taken in city
+2. traffic heat per order
+3. traffic heat per session (average)
+4. route rating (scoring - ML)
+
+#### Questions to consider:
+- How do store data while collecting it
+- Which apps like Gridwise or Stride should be used for tracking metrics
+
+- 
 - REAL data accumulated
 - SIMULATED data 
