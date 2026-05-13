@@ -24,3 +24,7 @@
 - 
 - REAL data accumulated
 - SIMULATED data 
+
+#### Appplications
+- Strava Rest API
+- Door Dash / Uber Delivery export
