@@ -28,3 +28,10 @@
 #### Appplications
 - Strava Rest API
 - Door Dash / Uber Delivery export
+
+  ##### Process
+
+  - Accumulate data from food delivery
+  - Record on Strava and export to JSON
+  - either work JSON or convert to csv/dataframe
+  - (delivery data???)
