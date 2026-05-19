@@ -35,3 +35,9 @@
   - Record on Strava and export to JSON
   - either work JSON or convert to csv/dataframe
   - (delivery data???)
+
+  ##### Deliovery Data
+  - Will be processed by session
+  - earned by session
+  - session has X hours
+  - 
