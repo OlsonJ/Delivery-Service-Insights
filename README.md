@@ -37,7 +37,7 @@
   - (delivery data???)
 
   ##### Deliovery Data
-  - Will be processed by session
-  - earned by session
+  - Will be processed by session (case by case)
+  - earned by day (SUM of session from 4am-3:59am
   - session has X hours
-  - 
+  - rate: earned by day / total hours in day
