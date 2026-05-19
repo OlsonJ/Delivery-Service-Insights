@@ -3,6 +3,8 @@ from   datetime import datetime, timedelta, timezone
 from   dotenv   import load_dotenv; load_dotenv()
 import json
 import os
+
+# Credit : This script was assisted with AI tools
 # ---
 # Step 0: Connections / API / Keys
 # This step is ommited for privacy 
