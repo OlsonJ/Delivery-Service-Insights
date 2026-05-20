@@ -34,9 +34,9 @@
   - Accumulate data from food delivery
   - Record on Strava and export to JSON
   - either work JSON or convert to csv/dataframe
-  - (delivery data???)
+  - One month of data can be simulated (upon completion of data collection
 
-  ##### Deliovery Data
+  ##### Delivery Data
   - Will be processed by session (case by case)
   - earned by day (SUM of session from 4am-3:59am
   - session has X hours
