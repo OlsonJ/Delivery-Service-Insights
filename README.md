@@ -20,6 +20,7 @@
 #### Questions to consider:
 - How do store data while collecting it
 - Which apps like Gridwise or Stride should be used for tracking metrics
+- What information to take from case-by-case order summnaries
 
 - 
 - REAL data accumulated
