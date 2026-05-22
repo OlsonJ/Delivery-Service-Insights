@@ -3,13 +3,23 @@
 ## Insights are based off delivery service on bicycle within a city
 
 ### Data for this project is acquired from Doordash's dasher app and Uber's delivery app
-#### Data in consideration:
+
+#### Data in consideration Bicycle:
 1. Total Earnings per Day
 2. Earnings per order
 3. Active service time (on delivery)
 4. total service time per Day
 5. Distance traveled per order
 6. Total Distance traveled per day
+
+#### Data in consideration Car:
+1. Total Earnings per Day
+2. Earnings per order
+3. Active service time (on delivery)
+4. total service time per Day
+5. Distance traveled per order
+6. Total Distance traveled per day
+
 
 #### Future Considerations:
 1. Route taken in city
