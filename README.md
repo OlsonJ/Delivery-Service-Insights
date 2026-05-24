@@ -20,6 +20,10 @@
 5. Distance traveled per order
 6. Total Distance traveled per day
 
+#### Data collection timeframe
+1. Bicycle 1-2 months April-June
+2. Car 1-4 weeks
+3. E-bike - future consideration
 
 #### Future Considerations:
 1. Route taken in city
