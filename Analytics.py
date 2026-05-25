@@ -28,3 +28,12 @@ Index(['resource_state', 'athlete_id', 'athlete_resource_state', 'name',
 
 dfc = df[['name', 'distance', 'moving_time', 'elapsed_time', 'start_latlng', 'end_latlng', 'max_speed', 'average_speed']]
 dfc.head()
+
+'''
+name	distance	moving_time	elapsed_time	start_latlng	end_latlng	max_speed	average_speed
+0	Food delivery ride	22767.3	6907	13600	[25.802302, -80.198495]	[25.801242, -80.190936]	12.42	3.296
+1	Tdap shot food delivery	11498.1	2751	4543	[25.795003, -80.218614]	[25.801973, -80.198074]	12.24	4.180
+2	Warmup service - phone overheated	1793.6	456	885	[25.805983, -80.188097]	[25.801934, -80.198103]	9.58	3.933
+3	Service 516	15196.9	4278	10807	[25.802605, -80.1936]	[25.824401, -80.214399]	13.40	3.552
+4	Water bottle dropped:(	13429.1	3777	5909	[25.799927, -80.196323]	[25.801853, -80.198158]	11.48	3.555
+'''
