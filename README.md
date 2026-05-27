@@ -6,19 +6,15 @@
 
 #### Data in consideration Bicycle:
 1. Total Earnings per Day
-2. Earnings per order
-3. Active service time (on delivery)
 4. total service time per Day
-5. Distance traveled per order
-6. Total Distance traveled per day
+5. Distance traveled per Day
+6. Total Distance traveled
 
 #### Data in consideration Car:
 1. Total Earnings per Day
-2. Earnings per order
-3. Active service time (on delivery)
 4. total service time per Day
 5. Distance traveled per order
-6. Total Distance traveled per day
+6. Total Distance traveled
 
 #### Data collection timeframe
 1. Bicycle 1-2 months April-June
