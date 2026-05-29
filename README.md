@@ -22,7 +22,7 @@
 3. E-bike - future consideration
 
 #### Future Considerations:
-1. Route taken in city
+1. Route heat (most traveled streets/routes)
 2. traffic heat per order
 3. traffic heat per session (average)
 4. route rating (scoring - ML)
