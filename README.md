@@ -9,7 +9,7 @@
 4. total service time per Day
 5. Distance traveled per Day
 6. Total Distance traveled
-
+7. Wynwood Data vs. Miami South Beach Data
 #### Data in consideration Car:
 1. Total Earnings per Day
 4. total service time per Day
