@@ -1,0 +1,26 @@
+# Credentials & secrets
+.env
+*.env
+*.key
+*.pem
+client_secrets.json
+token.json
+
+# Strava / API tokens
+strava_tokens.json
+activities.json
+
+# Data files (keep CSVs tracked intentionally — remove line below to block them)
+# *.csv
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
